@@ -46,3 +46,7 @@ Prevent requests without valid authentication headers.
 
 Add your own domain name and have it point to the running services (try adding a subdomain name to point to the processing server)
 > !NOTE: Domain names are not included in AWS’ free tier and will incur a cost.
+
+### Elastic Beanstalk Deployment URL
+ [The Image Filtering Elastic Beanstalk Deployment URL](http://udagram-image-filter-dev.us-east-1.elasticbeanstalk.com/)
+http://udagram-image-filter-dev.us-east-1.elasticbeanstalk.com/
